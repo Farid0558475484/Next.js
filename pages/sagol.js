@@ -5,7 +5,7 @@ const Sagol = () => {
   return (
     <div>
       <h1>
-        <Link href="/home">
+        <Link href="/">
         Sagol</Link>
       </h1>
     </div>
