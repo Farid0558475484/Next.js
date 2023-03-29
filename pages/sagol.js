@@ -1,7 +1,13 @@
+import Link from 'next/link';
+
+
 const Sagol = () => {
   return (
     <div>
-      <h1>Sagol</h1>
+      <h1>
+        <Link href="/home">
+        Sagol</Link>
+      </h1>
     </div>
   );
 };
