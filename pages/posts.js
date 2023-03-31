@@ -3,7 +3,7 @@ import Head from "next/head";
 
 const Posts = () => (
   <>
-     <Head>
+    <Head>
       <title>Posts</title>
     </Head>
     <Heading text="Posts list:" />
