@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Heading from "../components/Heading";
 import Socials from "../components/Socials";
 import styles from "../styles/Home.module.scss";
 
@@ -23,7 +22,7 @@ const Home = ({ socials }) => (
     <Head>
       <title>Home</title>
     </Head>
-    <Heading text="Next.js Application" />
+    <h1>Ferid Hacizade</h1>
     <Socials socials={socials} />
   </div>
 );

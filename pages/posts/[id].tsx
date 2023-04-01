@@ -1,4 +1,4 @@
-import PostInfo from "@/components/PostInfo";
+import PostInfo from "../../components/PostInfo";
 import Head from "next/head";
 
 export const getStaticPaths = async () => {
